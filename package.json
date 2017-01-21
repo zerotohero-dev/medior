@@ -1,6 +1,6 @@
 {
   "name": "medior",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "medior mediates topics from publishers to subscribers (i.e., it’s yet another pubsub hub)",
   "main": "index.js",
   "scripts": {
