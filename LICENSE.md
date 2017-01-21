@@ -1,3 +1,13 @@
+```
+       _  .          .     +           .
+     .(_)          .              *          '
+     .   .      .    .   /               *        *
+      .           .    /           +                 '*
+ . .        .  .       /    .
+     .  +       .     *
+    .                   medior
+```
+
 MIT License
 
 Copyright (c) 2017 Byte-Sized JavaScript
