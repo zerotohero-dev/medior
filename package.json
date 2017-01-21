@@ -1,0 +1,25 @@
+{
+  "name": "medior",
+  "version": "0.1.0",
+  "description": "medior mediates topics from publishers to subscribers (i.e., it’s yet another pubsub hub)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbites/medior.git"
+  },
+  "keywords": [
+    "pubsub",
+    "mediator",
+    "medior",
+    "pubsubhub"
+  ],
+  "author": "Volkan Özçelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsbites/medior/issues"
+  },
+  "homepage": "https://github.com/jsbites/medior#readme"
+}
