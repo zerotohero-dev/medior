@@ -16,7 +16,7 @@
     "medior",
     "pubsubhub"
   ],
-  "author": "Volkan Özçelik",
+  "author": "Volkan Özçelik <me@volkan.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jsbites/medior/issues"
