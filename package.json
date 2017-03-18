@@ -1,15 +1,12 @@
 {
   "name": "medior",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "medior mediates topics from publishers to subscribers (i.e., it’s yet another pubsub hub)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jsbites/medior.git"
-  },
+  "repository": "git+https://github.com/jsbites/medior.git",
   "keywords": [
     "pubsub",
     "mediator",
