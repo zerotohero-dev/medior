@@ -16,5 +16,6 @@
 # Send your comments, suggestions, and feedback to me@volkan.io
 #
 
+language: node_js
 node_js:
   - "7.9.0"
